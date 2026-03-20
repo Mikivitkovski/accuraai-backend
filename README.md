@@ -1,4 +1,4 @@
-# accuraai Backend
+# Accuraai Backend
 
 Stack: Node.js, Express, TypeScript, TypeORM, Postgres (Docker), Zod, Swagger
 
